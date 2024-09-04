@@ -14,17 +14,17 @@ Aᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴛᴏ sᴇᴇ ᴛʜᴇ ᴍᴀɢ�
     ABOUT_TXT = """<b>✯ Mʏ Nᴀᴍᴇ: {}
 ✯ Cʀᴇᴀᴛᴏʀ: <a href='tg://settings'>Tʜɪs ᴘᴇʀsᴏɴ</a>
 ✯ Lɪʙʀᴀʀʏ: <a href='https://docs.pyrogram.org/'>Pʏʀᴏɢʀᴀᴍ</a>
-✯ Dᴇᴠᴏʟᴏᴘᴇʀ: <a href='https://t.me/Sathan_Of_Telegram'>Dr.സാത്താൻ</a>
+✯ Dᴇᴠᴏʟᴏᴘᴇʀ: <a href='https://t.me/Evils_lust'>🜏 αѕмσ∂єυѕ⁶⁶⁶ ⸸</a>
 ✯ Lᴀɴɢᴜᴀɢᴇ: <a href='https://www.python.org/download/releases/3.0/'>Pʏᴛʜᴏɴ 3</a>
 ✯ DᴀᴛᴀBᴀsᴇ: <a href='https://www.mongodb.com/'>MᴏɴɢᴏDB</a>
-✯ Bᴏᴛ Sᴇʀᴠᴇʀ: <a href='https://t.me/quickfastt'>Qᴜɪᴄᴋ Fᴀsᴛ</a>
+✯ Bᴏᴛ Sᴇʀᴠᴇʀ: <a href='https://t.me/TG_SUPP0RT'>Qᴜɪᴄᴋ Fᴀsᴛ</a>
 ✯ Bᴜɪʟᴅ Sᴛᴀᴛᴜs: v2.0.3 [ Sᴛᴀʙʟᴇ ]</b>"""
 
     SOURCE_TXT = """<b>NOTE:</b>
 <b>- 𝚃𝙷𝙸𝚂 𝙸𝚂 𝙰𝙽 𝙸𝚂 𝙾𝙿𝙴𝙽 𝚂𝙾𝚄𝚁𝙲𝙴 𝙿𝚁𝙾𝙹𝙴𝙲𝚃. 
 - 𝚂𝙾𝚄𝚁𝙲𝙴 - 𝙲𝙻𝙸𝙲𝙺 𝚁𝙴𝙿𝙾 𝙱𝚄𝚃𝚃𝙾𝙽</b>
 <b>DEVS:</b>
-- <a href=https://t.me/Cinemathattakam_Group>[CT™] 📽സിനിമ തട്ടകം</a>"""
+- <a href=https://t.me/videshayathra_official>𝐅𝐈𝐋𝐌 𝟏𝟖+ </a>"""
 
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
@@ -100,7 +100,7 @@ these are the extra features of Elsa
 ⏭️ /song 𝚂𝙾𝙽𝙶 𝙽𝙰𝙼𝙴 
 
 <b>𝚆𝙾𝚁𝙺𝚂 𝙱𝙾𝚃𝙷 𝙶𝚁𝙾𝚄𝙿 𝙰𝙽𝙳 𝙿𝙼</b>
-@Cinemathattakam_group"""
+@videshayathra_official"""
 
     VIDEO_TXT ="""𝙷𝙴𝙻𝙿 𝚈𝙾𝚄 𝚃𝙾 𝙳𝙾𝚆𝙽𝙻𝙾𝙰𝙳 𝚅𝙸𝙳𝙴𝙾 𝙵𝚁𝙾𝙼 𝚈𝙾𝚄𝚃𝚄𝙱𝙴.
 • 𝘜𝘴𝘢𝘨𝘦
@@ -244,7 +244,7 @@ This module only works for my admins
 🗃️ ᴜsᴇᴅ sᴛᴏʀᴀɢᴇ: <code>{}</code> 𝙼𝚒𝙱
 🆓 ғʀᴇᴇ sᴛᴏʀᴀɢᴇ: <code>{}</code> 𝙼𝚒𝙱</b>
 
-🌀 DEVELOPER :<a href='https://t.me/Sathan_Of_Telegram'>CLICK HERE</a></b>"""
+🌀 DEVELOPER :<a href='https://t.me/Evils_lust'>CLICK HERE</a></b>"""
 
 
     CARB_TXT = """<b>Help</b> : 𝗖𝗔𝗥𝗕𝗢𝗡
@@ -307,8 +307,8 @@ Aᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴛᴏ sᴇᴇ ᴛʜᴇ ᴍᴀɢ�
     CUSTOM_FILE_CAPTION = """<b>📂Fɪʟᴇɴᴀᴍᴇ : <code>{file_name}</code>
 
 ╔═════•✧❅✦❅✧•═════╗
-▣ <a href=https://t.me/cinemathattakam_Group>[CT™] 📽സിനിമ തട്ടകം​</a>
-▣ <a href=https://t.me/CT_Arena>[CT™] 📽സിനിമ തട്ടകം​</a>
+▣ <a href=https://t.me/videshayathra_official>𝐅𝐈𝐋𝐌 𝟏𝟖+ ​</a>
+▣ <a href=https://t.me/filims_18>𝐅𝐈𝐋𝐌 𝟏𝟖+ ​</a>
 ╚═════•✧❅✦❅✧•═════╝</b>"""
 
     RESTART_TXT = """
@@ -353,9 +353,9 @@ Aᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴛᴏ sᴇᴇ ᴛʜᴇ ᴍᴀɢ�
     OWNER_INFO = """
 <b>⍟───[ ᴏᴡɴᴇʀ ᴅᴇᴛᴀɪʟꜱ ]───⍟
     
-• ꜰᴜʟʟ ɴᴀᴍᴇ :『🔱』Dr.സാത്താൻ 🆇🄰🆅🄸🅴🅁 𝗞Ǥ𝗙 ​
-• ᴜꜱᴇʀɴᴀᴍᴇ : @Sathan_Of_Telegram
-• ᴘᴇʀᴍᴀɴᴇɴᴛ ᴅᴍ ʟɪɴᴋ : <a href='t.me/Sathan_Of_Telegram'>Dr.സാത്താൻ</a></b>"""
+• ꜰᴜʟʟ ɴᴀᴍᴇ : � αѕмσ∂єυѕ⁶⁶⁶ ⸸ ​
+• ᴜꜱᴇʀɴᴀᴍᴇ : @Evils_lust
+• ᴘᴇʀᴍᴀɴᴇɴᴛ ᴅᴍ ʟɪɴᴋ : <a href='t.me/Evils_lust'>🜏 αѕмσ∂єυѕ⁶⁶⁶ ⸸</a></b>"""
 
     GROUP_INFO = """
 <b>⍟ Cʜᴀɴɴᴇʟs & Gʀᴏᴜᴘs Mᴏᴅᴜʟᴇ ⍟</b>
@@ -367,17 +367,17 @@ Aᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴛᴏ sᴇᴇ ᴛʜᴇ ᴍᴀɢ�
     CREDIT_INFO = """
       <b>⍟───[ Cʀᴇᴅɪᴛꜱ ]───⍟</b>   
 𝖳𝗁𝖺𝗇𝗄 𝖳𝗈 : <a href=https://github.com/EvamariaTG>Eᴠᴀ ᴍᴀʀɪᴀ​</a>
-𝖢𝗈𝖽𝖾𝖽 𝖡𝗒 : <a href=https://t.me/Sathan_Of_Telegram>『🔱』Dr.സാത്താൻ</a>
-𝖣𝖾𝗏𝖾𝗅𝗈𝗉𝖾𝖽 𝖡𝗒 : <a href=https://t.me/Sathan_Of_Telegram>『🔱』Dr.സാത്താൻ</a>
+𝖢𝗈𝖽𝖾𝖽 𝖡𝗒 : <a href=https://t.me/Evils_lust> � αѕмσ∂єυѕ⁶⁶⁶ ⸸</a>
+𝖣𝖾𝗏𝖾𝗅𝗈𝗉𝖾𝖽 𝖡𝗒 : <a href=https://t.me/Evils_lust> � αѕмσ∂єυѕ⁶⁶⁶ ⸸</a>
 𝖥𝖾𝖺𝗍𝗎𝗋𝖾 𝖠𝖽𝖽𝖾𝖽 𝖡𝗒 : <a href=https://github.com/CrazyDeveloperTG/Doctor-Strange>𝐂𝐫𝐚𝐳𝐲 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 ᠰ 𝐓𝐆</a>
 
        <b>⍟───[ꜱᴏᴜʀᴄᴇ ᴄᴏᴅᴇꜱ]───⍟</b>
-𝗌𝗈𝗎𝗋𝖼𝖾 𝖼𝗈𝖽𝖾 : <a href=https://t.me/Sathan_Of_Telegram>Asᴋ ʜɪᴍ 😶‍🌫️</a>
-𝖥𝗈𝗋𝗄𝖾𝖽 𝖿𝗋𝗈𝗆 : <a href=https://t.me/Sathan_Of_Telegram>Asᴋ ʜɪᴍ 💻</a>
+𝗌𝗈𝗎𝗋𝖼𝖾 𝖼𝗈𝖽𝖾 : <a href=https://t.me/Evils_lust>Asᴋ ʜɪᴍ 😶‍🌫️</a>
+𝖥𝗈𝗋𝗄𝖾𝖽 𝖿𝗋𝗈𝗆 : <a href=https://t.me/Evils_lust>Asᴋ ʜɪᴍ 💻</a>
 
        <b>⍟───[Mᴀɪɴʟʏ Eᴅɪᴛᴛᴇᴅ]───⍟</b>
-𝖬𝖺𝗂𝗇𝗅𝗒 𝖤𝖽𝗂𝗍𝗍𝖾𝖽 𝖡𝗒 : <a href=https://t.me/Sathan_Of_Telegram>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>
-𝖲𝗉𝖾𝖼𝗂𝖺𝗅 𝖳𝗁𝖺𝗇𝗄𝗌 𝖳𝗈 : <a href=https://t.me/Sathan_Of_Telegram>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>"""
+𝖬𝖺𝗂𝗇𝗅𝗒 𝖤𝖽𝗂𝗍𝗍𝖾𝖽 𝖡𝗒 : <a href=https://t.me/Evils_lust>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>
+𝖲𝗉𝖾𝖼𝗂𝖺𝗅 𝖳𝗁𝖺𝗇𝗄𝗌 𝖳𝗈 : <a href=https://t.me/Evils_lust>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>"""
 
     FIlTERS_TXT = """
 <b>ʜᴇʏ,
