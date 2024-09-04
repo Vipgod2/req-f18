@@ -59,7 +59,7 @@ async def save_group(bot, message):
                                                  caption=(script.MELCOW_ENG.format(u.mention, message.chat.title)),
                                                  reply_markup=InlineKeyboardMarkup(
                                                                          [[
-                                                                           InlineKeyboardButton('❗️Rᴇᴀᴅ Gʀᴏᴜᴘ Rᴜʟᴇꜱ❗️', url="https://graph.org/H%E1%B4%8F%E1%B4%A1-T%E1%B4%8F-G%E1%B4%87%E1%B4%9B-M%E1%B4%8F%E1%B4%A0%C9%AA%E1%B4%87s-F%CA%80%E1%B4%8F%E1%B4%8D-O%E1%B4%9C%CA%80-G%CA%80%E1%B4%8F%E1%B4%9C%E1%B4%98-01-21")
+                                                                           InlineKeyboardButton('❗️Rᴇᴀᴅ Gʀᴏᴜᴘ Rᴜʟᴇꜱ❗️', url="https://graph.org/H%E1%B4%8F%E1%B4%A1-T%E1%B4%8F-G%E1%B4%87%E1%B4%9B-M%E1%B4%8F%E1%B4%A0%C9%AA%E1%B4%87s-F%CA%80%E1%B4%8F%E1%B4%8D-O%E1%B4%9C%CA%80-G%CA%80%E1%B4%8F%E1%B4%9C%E1%B4%98-09-04")
                                                                         ]]
                                                  ),
                                                  parse_mode=enums.ParseMode.HTML
